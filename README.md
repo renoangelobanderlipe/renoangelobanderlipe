@@ -7,7 +7,7 @@
 - 💬 Ask me ... Anything.
 - 😄 Pronouns: He/Him.
 - 📫 Reach me: [instagram.com](https://www.instagram.com/renoangelobanderlipe)
-- 🔗 My Portfolio: [portfolio website](https://portfolio-renoangelo.vercel.app/)
+- 🔗 My Portfolio: [portfolio website](https://renoangelo-banderlipe.vercel.app/)
 
 <br />
 

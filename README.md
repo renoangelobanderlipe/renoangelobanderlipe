@@ -69,6 +69,6 @@ Let's connect on [![Instagram](https://img.shields.io/badge/Instagram-%40renoang
 
 ## Let's Connect
 
-Feel free to reach out on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Reno%20Angelo-blue)](https://www.linkedin.com/in/renoangelo) or [![Twitter](https://img.shields.io/twitter/follow/renoangelo?style=social)](https://twitter.com/renoangelo).
+Feel free to reach out on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Reno%20Angelo-blue)](https://www.linkedin.com/in/renoangelo).
 
 </details>

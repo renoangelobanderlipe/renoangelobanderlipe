@@ -2,27 +2,27 @@
 
 ### 🌱 About Me
 
-I'm on an exciting journey of continuous learning, with a primary focus on mastering Typescript. My curiosity extends to exploring various other cutting-edge technologies that pique my interest.
+I'm on an exciting journey of continuous learning, primarily focusing on mastering Typescript. My curiosity extends to exploring various other cutting-edge technologies that pique my interest.
 
 ### 👯 Let's Collaborate!
 
-I'm enthusiastic about collaborating on open source projects. If you have a project that aligns with my interests or you just want to brainstorm ideas, feel free to reach out.
+I'm enthusiastic about collaborating on open-source projects. Feel free to reach out if you have a project that aligns with my interests or wants to brainstorm ideas.
 
 ### 💬 Ask me Anything
 
-I'm an open book! Whether it's about programming, tech trends, or life in general, feel free to shoot any questions my way.
+I'm an open book! Whether it's about programming, tech trends, or life, feel free to shoot any questions my way.
 
 ### 😄 Pronouns: He/Him
 
 ### 📫 Connect with Me
 
-Let's connect on [![Instagram](https://img.shields.io/badge/Instagram-%40renoangelobanderlipe-%23E4405F)](https://www.instagram.com/renoangelobanderlipe). You can also check out my latest projects on my [Portfolio](https://renoangelo-banderlipe.vercel.app/).
+Let's connect on [![Instagram](https://img.shields.io/badge/Instagram-%40renoangelobanderlipe-%23E4405F)](https://www.instagram.com/renoangeloo). You can also check out my latest projects on my [Portfolio](https://renoangelo-banderlipe.vercel.app/).
 
 <br />
 
 ![Github Status](https://github-readme-stats.vercel.app/api?username=renoangelobanderlipe&show_icons=true&theme=radical)&nbsp;&nbsp; ![Most Used Language](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=renoangelobanderlipe&layout=compact&langs_count=8&theme=graywhite)&nbsp;&nbsp;
 
-### 🚀 Let's build something amazing together!
+### 🚀 Let's build something unique together!
 
 <!-- Table of Contents -->
 <details>
@@ -69,6 +69,6 @@ Let's connect on [![Instagram](https://img.shields.io/badge/Instagram-%40renoang
 
 ## Let's Connect
 
-Feel free to reach out on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Reno%20Angelo-blue)](https://www.linkedin.com/in/renoangelo).
+Feel free to reach out on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Reno%20Angelo-blue)](https://www.linkedin.com/in/reno-angelo-banderlipe/).
 
 </details>

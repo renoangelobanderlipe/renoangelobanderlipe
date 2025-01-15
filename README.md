@@ -52,9 +52,9 @@ Let's connect on [![Instagram](https://img.shields.io/badge/Instagram-%40renoang
 
 ## Skills
 
-- Frontend Development: React, Vue
-- Backend Development: Node.js, Laravel
-- Database Management: MySQL
+- Frontend Development: React, Nextjs, Vue
+- Backend Development: Nest.js, Node.js, Laravel
+- Database Management: MySQL, Postgresql
 - Version Control: Git
 
 ## Education
